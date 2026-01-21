@@ -46,10 +46,6 @@ terraform-aws-modules/
 │       ├── eks.tfvars
 │       ├── ecs-fargate.tfvars
 │       └── ecs-ec2.tfvars
-├── examples/
-│   ├── vm-simple/
-│   ├── eks-simple/
-│   └── ecs-fargate/
 └── README.md
 ```
 
